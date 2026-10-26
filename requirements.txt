@@ -1,0 +1,11 @@
+# AI Music Generation Dependencies
+# Using PyTorch CPU build for lightweight installation and fast training on Windows
+
+# Music representation and MIDI parsing library
+music21>=9.1.0
+
+# Deep learning framework (PyTorch)
+torch>=2.2.0
+
+# Numerical computing
+numpy>=1.24.0
